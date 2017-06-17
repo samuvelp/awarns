@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">A War nS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="green">Green</string>
+    <string name="lessthan10"><![CDATA[< 10 - You are less aware..!]]></string>
+    <string name="between1016">10-16 - Your awareness level is good..!</string>
+    <string name="above16"><![CDATA[>16 - That\'s amazing, you are blessed..!]]></string>
+    <string name="starttext">\"Find the color of the color name\"</string>
+    <string name="task">You have to find the color of the color name that pops out. It will disappear within a second. You have
+    the choice to quickly pass the color name by tapping it. You can\'t able to pause the game in between.</string>
+    <string name="protip">Tap as fast as possible to score more. Practice as much as possible to increase the awareness ability.</string>
+</resources>
